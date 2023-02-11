@@ -1,0 +1,37 @@
+.container {
+  background-image: url('https://assets.ccbp.in/frontend/react-js/random-no-generator-bg.png');
+  background-size: cover;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.card-container {
+  background-color: white;
+
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  height: 70vh;
+  justify-content: center;
+  align-items: center;
+  box-shadow: 0px 4px 16px 0px #bfbfbf;
+  padding: 50px;
+}
+.heading {
+  font-family: 'roboto';
+  font-size: 30px;
+  color: #0b69ff;
+}
+.thopeColor {
+  background-color: #0b69ff;
+  height: 35px;
+  width: 100px;
+  border-width: 0px;
+  border-radius: 5px;
+  color: white;
+}
+.gereratenummValue {
+  color: #0b69ff;
+}
